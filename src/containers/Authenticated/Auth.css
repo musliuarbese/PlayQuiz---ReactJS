@@ -1,0 +1,29 @@
+.Auth {
+    margin-top: 100px;
+    margin-left: 400px;
+     /* margin: 20px auto;  */
+    width: 40%;
+    text-align: left;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 40px;
+    /* box-sizing: border-box; */
+  }
+  .Auth button{
+    width: 100px;
+    background-color: blue;
+    text-align: left;
+  }
+
+  .btn{
+    padding-left: 15px !important;
+  }
+
+.Auth input{
+    width: 300px;
+    
+  }
+
+  
+
+

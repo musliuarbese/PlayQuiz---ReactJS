@@ -1,0 +1,19 @@
+.NavigationItem li {
+    /* text-decoration: none;
+    width: 100%;
+    box-sizing: border-box; */
+    padding: 20px;
+   text-decoration: none;
+   list-style: none;
+   color: white;
+   font-size: 20px;
+}
+
+
+.NavigationItem a {
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+  }

@@ -1,0 +1,21 @@
+.Dizajni a{
+   color: black;
+   list-style: none;
+   text-decoration: none;
+   text-shadow: none;
+   flex-flow: row;
+   text-align: center;
+}
+
+.dizajnquiz{
+   /* padding: 14px 35px; */
+    cursor: pointer;
+    background-color: white;
+    border: none;
+     margin-left: 270px;
+    width: 500px; 
+
+}
+.dizajnquiz h2{
+   text-align: left;
+}

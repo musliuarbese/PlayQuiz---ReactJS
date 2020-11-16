@@ -1,0 +1,22 @@
+.Java a{
+   color: black;
+   list-style: none;
+   text-decoration: none;
+   text-shadow: none;
+   flex-flow: row;
+   text-align: center;
+}
+
+.Java h2{
+   /* margin-left: 170px; */
+   text-align: left;
+}
+
+.Javaquiz{
+   margin-top: 10px;
+   cursor: pointer;
+   background-color: white;
+   border: none;
+   margin-left: 270px;
+   width: 500px; 
+}

@@ -1,0 +1,16 @@
+.Courses{
+    margin-top: 150px;
+    max-width: 1000px; 
+     width: 100%;
+     padding: 80px;
+      margin-left: 140px;
+    border: 2px solid black;
+    border-radius: 4px;
+    box-shadow: 10px 10px 5px  #c0bdbd ;
+}
+
+.Courses h1{
+    color: red;
+    margin-bottom: 50px;
+    text-align: center;
+}

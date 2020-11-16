@@ -1,0 +1,21 @@
+.Java{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    text-shadow: none;
+    flex-flow: row;
+    text-align: center;
+ }
+ 
+ .Javaquiz{
+    /* padding: 14px 35px; */
+     cursor: pointer;
+     background-color: white;
+     border: none;
+      margin-left: 200px;
+     width: 500px; 
+ 
+ }
+ .Javaquiz h2{
+    text-align: left;
+ }
